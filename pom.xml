@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.garethwestern.demo.springboot</groupId>
-	<artifactId>admin-demo</artifactId>
+	<artifactId>springbootstrap-sb-admin</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>admin-demo</name>
-	<description>Demo project for Spring Boot + WebJars</description>
+	<name>Spring Bootstrap SB Admin</name>
+	<description>Demo project for Spring Boot + startbootstrap-sb-admin-2 (via WebJars)</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
